@@ -17,7 +17,7 @@ https://candybox-ai.github.io/orbit-demo/
   <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：理解困惑并匹配线下活动" width="200" />
 </p>
 
-打开后可以玩：
+在 Demo 里可以：
 
 - **成长地图（默认主界面）**：查看成长主题与轨迹；点击节点看事件与变化依据
 - **Chat（右下角进入）**：像朋友聊天一样理解困惑与阻力，在对话里选择线下活动卡片，接收提醒，并完成复盘

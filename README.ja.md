@@ -17,7 +17,7 @@ https://candybox-ai.github.io/orbit-demo/
   <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：迷いを理解し、オフライン活動をマッチ" width="200" />
 </p>
 
-デモで試せること：
+この Demo でできること：
 
 - **成長マップ（最初の画面）**：テーマと軌跡を眺める。ノードをタップすると、出来事と変化の理由が分かる
 - **Chat（右下）**：友人に話すように迷いとつまずきを整理し、会話の中でオフライン活動カードを選び、リマインドを受け、振り返りまで進める
