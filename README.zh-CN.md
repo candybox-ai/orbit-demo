@@ -1,4 +1,4 @@
-# Orbit 互动 Demo
+# Orbit - 个人成长 Agent
 
 [English](./README.md) · **中文** · [日本語](./README.ja.md)
 
