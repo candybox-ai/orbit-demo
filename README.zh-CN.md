@@ -12,9 +12,9 @@ https://candybox-ai.github.io/orbit-demo/
 
 预置数据模拟一段从困惑、尝试行动、参加线下活动到复盘的经历，呈现核心流程。未接入生产级 LLM、ASR 与后端。
 
-![Chat：理解困惑并匹配线下活动](./docs/demo-chat.png)
+![成长地图：记录每一步成长](https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png)
 
-![成长地图：记录每一步成长](./docs/demo-map.png)
+![Chat：理解困惑并匹配线下活动](https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png)
 
 打开后可以玩：
 
@@ -22,8 +22,6 @@ https://candybox-ai.github.io/orbit-demo/
 - **Chat（右下角进入）**：像朋友聊天一样理解困惑与阻力，在对话里选择线下活动卡片，接收提醒，并完成复盘
 
 ## Orbit 能为你做什么
-
-线上 Demo 可体验如下核心流程：
 
 - 持续理解你的困惑或目标
 - 帮你制定可执行的计划
@@ -73,4 +71,4 @@ https://github.com/candybox-ai/orbit-demo/issues
 
 ## 致谢
 
-本仓库由 Codex、Grok Bot 协助整理与发布。
+本仓库由 [Codex](https://github.com/apps/chatgpt-codex-connector)、Grok Bot 协助整理与发布。
