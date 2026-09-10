@@ -72,4 +72,4 @@ https://github.com/candybox-ai/orbit-demo/issues
 
 ## 致谢
 
-本仓库由 [Codex](https://github.com/chatgpt-codex-connector)、Grok Bot 协助整理与发布。
+本仓库由 Codex、Grok Bot 协助整理与发布。

@@ -70,4 +70,4 @@ https://github.com/candybox-ai/orbit-demo/issues
 
 ## 謝辞
 
-本リポジトリは [Codex](https://github.com/chatgpt-codex-connector) と Grok Bot の協力により整理・公開されました。
+本リポジトリは Codex と Grok Bot の協力により整理・公開されました。

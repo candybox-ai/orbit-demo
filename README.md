@@ -70,4 +70,4 @@ https://github.com/candybox-ai/orbit-demo/issues
 
 ## Acknowledgments
 
-This repository was prepared and published with help from [Codex](https://github.com/chatgpt-codex-connector) and Grok Bot.
+This repository was prepared and published with help from Codex and Grok Bot.
