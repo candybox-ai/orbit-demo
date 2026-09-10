@@ -2,11 +2,9 @@
 
 **English** · [中文](./README.zh-CN.md) · [日本語](./README.ja.md)
 
-**Try Orbit’s growth companion in the browser.** Open the growth map first; in Chat you can follow Agent dialogue, activity matching, on-site recording, and growth-status confirmation.
+**Orbit is an AI growth companion.** This repo is a clickable, phone-style demo in the browser—no sign-in required.
 
 ## Live demo
-
-Open in a phone-style UI:
 
 https://candybox-ai.github.io/orbit-demo/
 
@@ -15,19 +13,23 @@ The demo account is a fictional person, “Xu Cheng” (许澄). People, activit
 ## What you can try
 
 - Browse themes and nodes on the growth map
-- Open Chat to review Agent dialogue and activity proposals
+- Open Chat for Agent dialogue, activity matching, on-site recording, and growth-status confirmation
 - Continue the flow or reset demo progress
 
 This is an interactive product demo, not a production app you can sign into.
 
 ## Run locally
 
+Clone this repository, then:
+
 ```bash
+git clone https://github.com/candybox-ai/orbit-demo.git
+cd orbit-demo
 pnpm install
 pnpm dev
 ```
 
-Then open `http://127.0.0.1:5173/orbit-demo/`.
+Open `http://127.0.0.1:5173/orbit-demo/`.
 
 ## Verify
 
@@ -50,10 +52,10 @@ Public URL: https://candybox-ai.github.io/orbit-demo/
 
 ## Roadmap
 
-Planned (not in this repo):
+Beyond this demo:
 
-- Production Orbit app with real sign-in
-- Live user data beyond the Xu Cheng sample persona
+- Account sign-in and persistent personal growth data
+- Growth paths and activity recommendations for real users (not a sample persona)
 
 ## Feedback
 

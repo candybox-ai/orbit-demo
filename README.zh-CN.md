@@ -2,11 +2,9 @@
 
 [English](./README.md) · **中文** · [日本語](./README.ja.md)
 
-**在浏览器里体验 Orbit 成长陪伴。** 默认打开成长地图；进入 Chat 可看 Agent 对话、活动匹配、现场记录和成长状态确认。
+**Orbit 是 AI 成长陪伴产品。** 本仓库是可在浏览器里直接点开的手机样式 Demo，无需登录。
 
 ## 在线 Demo
-
-打开即可体验（手机样式界面）：
 
 https://candybox-ai.github.io/orbit-demo/
 
@@ -15,14 +13,18 @@ https://candybox-ai.github.io/orbit-demo/
 ## 你可以试什么
 
 - 浏览成长地图上的主题与节点
-- 在 Chat 里查看 Agent 对话与活动提案
+- 在 Chat 里查看 Agent 对话、活动匹配、现场记录和成长状态确认
 - 继续操作或重置演示进度
 
 这是产品互动 Demo，不是可登录的正式 App。
 
 ## 本地运行
 
+先克隆本仓库，再安装并启动：
+
 ```bash
+git clone https://github.com/candybox-ai/orbit-demo.git
+cd orbit-demo
 pnpm install
 pnpm dev
 ```
@@ -48,12 +50,12 @@ Vite `base` 为 `/orbit-demo/`。推送到 `main` 会跑测试、构建，并把
 - 不要提交 API Key、真实录音或个人隐私文件。
 - 演示数据可以改，但请保持可公开。
 
-## 未来规划
+## 路线图
 
-计划中（不在本仓库）：
+在 Demo 之外还将补齐：
 
-- 可登录的正式 Orbit App
-- 超出「许澄」演示人设的真实用户数据
+- 账号登录与个人成长数据持久化
+- 面向真实用户的成长路径与活动推荐
 
 ## 反馈
 
