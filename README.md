@@ -2,7 +2,7 @@
 
 **English** · [中文](./README.zh-CN.md) · [日本語](./README.ja.md)
 
-**Orbit — your AI growth companion, so personal growth can happen naturally.**
+**Orbit — an AI companion for personal growth.**
 
 Early-career professionals, career changers, and freelancers often feel lost and stuck: goals stay fuzzy, there’s no clear path, and no one to move forward with. After a few dead ends, it’s easy to quit. Orbit helps you build your own growth path and become who you want to be.
 
