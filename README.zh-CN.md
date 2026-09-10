@@ -39,11 +39,9 @@ pnpm test
 pnpm build
 ```
 
-## 部署
+## 更新在线 Demo
 
-Vite `base` 为 `/orbit-demo/`。推送到 `main` 会跑测试、构建，并把 `dist` 发布到 GitHub Pages。
-
-公开地址：https://candybox-ai.github.io/orbit-demo/
+把改动推送到 `main` 后，在线 Demo 会自动更新（无需手动上传页面）。
 
 ## 隐私
 
@@ -61,3 +59,7 @@ Vite `base` 为 `/orbit-demo/`。推送到 `main` 会跑测试、构建，并把
 ## 反馈
 
 https://github.com/candybox-ai/orbit-demo/issues
+
+## 致谢
+
+本仓库由 Codex、Grok Bot 协助整理与发布。
