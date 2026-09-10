@@ -1,6 +1,22 @@
 # Orbit 互动 Demo
 
-一个按手机 App 设计的 React + TypeScript 交互 Demo。默认界面是成长地图，Chat 承载 Agent 对话、活动匹配、现场记录和成长状态确认。
+**在浏览器里体验 Orbit 成长陪伴。** 默认打开成长地图；进入 Chat 可看 Agent 对话、活动匹配、现场记录和成长状态确认。
+
+## 在线 Demo
+
+打开即可体验（手机样式界面）：
+
+https://candybox-ai.github.io/orbit-demo/
+
+演示账户为虚构人物「许澄」；人物、活动、对话与素材均为演示数据。
+
+## 你可以试什么
+
+- 浏览成长地图上的主题与节点
+- 在 Chat 里查看 Agent 对话与活动提案
+- 继续操作或重置演示进度
+
+这是产品互动 Demo，不是可登录的正式 App。
 
 ## 本地运行
 
@@ -9,7 +25,7 @@ pnpm install
 pnpm dev
 ```
 
-访问 `http://127.0.0.1:5173/orbit-demo/`。
+浏览器访问 `http://127.0.0.1:5173/orbit-demo/`。
 
 ## 验证
 
@@ -19,8 +35,12 @@ pnpm test
 pnpm build
 ```
 
-## GitHub Pages
+## 部署说明
 
-Vite 的 `base` 已设置为 `/orbit-demo/`。仓库启用 GitHub Pages 的 GitHub Actions 发布源后，推送到 `main` 会运行测试、构建并部署 `dist`。
+Vite `base` 为 `/orbit-demo/`。仓库通过 GitHub Actions 发布到 GitHub Pages；推送到 `main` 会跑测试、构建并部署 `dist`。
 
-公开仓库中的人物、活动、对话和素材均为演示数据。不要提交 API Key、真实录音或个人隐私文件。
+公开地址：https://candybox-ai.github.io/orbit-demo/
+
+## 注意
+
+不要提交 API Key、真实录音或个人隐私文件。演示数据可以改，但请保持可公开。
