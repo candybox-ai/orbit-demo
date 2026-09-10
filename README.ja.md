@@ -13,8 +13,8 @@ https://candybox-ai.github.io/orbit-demo/
 プリセットデータで、迷い→行動→オフライン活動への参加→振り返りというコアの流れを体験できます。本番向けの LLM・ASR・バックエンドにはつながっていません。
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="成長マップ：成長の一歩ずつを記録" width="48%" />
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：迷いを理解し、オフライン活動をマッチ" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="成長マップ：成長の一歩ずつを記録" width="200" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：迷いを理解し、オフライン活動をマッチ" width="200" />
 </p>
 
 デモで試せること：

@@ -13,8 +13,8 @@ https://candybox-ai.github.io/orbit-demo/
 预置数据模拟一段从困惑、尝试行动、参加线下活动到复盘的经历，呈现核心流程。未接入生产级 LLM、ASR 与后端。
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="成长地图：记录每一步成长" width="48%" />
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：理解困惑并匹配线下活动" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="成长地图：记录每一步成长" width="200" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat：理解困惑并匹配线下活动" width="200" />
 </p>
 
 打开后可以玩：

@@ -13,8 +13,8 @@ https://candybox-ai.github.io/orbit-demo/
 Sample data walks you through the core loop—feeling stuck, taking action, joining an offline activity, and reflecting. This build is not connected to a production LLM, ASR, or backend.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="Growth map: every step of growth recorded" width="48%" />
-  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat: understand struggles and match offline activities" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="Growth map: every step of growth recorded" width="200" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat: understand struggles and match offline activities" width="200" />
 </p>
 
 In this demo you can:
