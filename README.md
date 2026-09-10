@@ -54,8 +54,9 @@ Public URL: https://candybox-ai.github.io/orbit-demo/
 
 Beyond this demo:
 
-- Account sign-in and persistent personal growth data
-- Growth paths and activity recommendations for real users (not a sample persona)
+- Account sign-in
+- Support for multiple large language models
+- Persistent personal data
 
 ## Feedback
 
