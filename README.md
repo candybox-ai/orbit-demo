@@ -12,9 +12,10 @@ https://candybox-ai.github.io/orbit-demo/
 
 Preset data walks through confusion, trying actions, joining offline activities, and reflection—showing the core flow. Not connected to production LLM, ASR, or backend services.
 
-![Growth map: every step of growth recorded](https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png)
-
-![Chat: understand struggles and match offline activities](https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-map.png" alt="Growth map: every step of growth recorded" width="48%" />
+  <img src="https://cdn.jsdelivr.net/gh/candybox-ai/orbit-demo@main/docs/demo-chat.png" alt="Chat: understand struggles and match offline activities" width="48%" />
+</p>
 
 What you can try after opening:
 
