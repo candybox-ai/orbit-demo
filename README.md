@@ -1,33 +1,35 @@
-# Orbit 互动 Demo
+# Orbit Demo
 
-**在浏览器里体验 Orbit 成长陪伴。** 默认打开成长地图；进入 Chat 可看 Agent 对话、活动匹配、现场记录和成长状态确认。
+**English** · [中文](./README.zh-CN.md) · [日本語](./README.ja.md)
 
-## 在线 Demo
+**Try Orbit’s growth companion in the browser.** Open the growth map first; in Chat you can follow Agent dialogue, activity matching, on-site recording, and growth-status confirmation.
 
-打开即可体验（手机样式界面）：
+## Live demo
+
+Open in a phone-style UI:
 
 https://candybox-ai.github.io/orbit-demo/
 
-演示账户为虚构人物「许澄」；人物、活动、对话与素材均为演示数据。
+The demo account is a fictional person, “Xu Cheng” (许澄). People, activities, dialogues, and assets are sample data only.
 
-## 你可以试什么
+## What you can try
 
-- 浏览成长地图上的主题与节点
-- 在 Chat 里查看 Agent 对话与活动提案
-- 继续操作或重置演示进度
+- Browse themes and nodes on the growth map
+- Open Chat to review Agent dialogue and activity proposals
+- Continue the flow or reset demo progress
 
-这是产品互动 Demo，不是可登录的正式 App。
+This is an interactive product demo, not a production app you can sign into.
 
-## 本地运行
+## Run locally
 
 ```bash
 pnpm install
 pnpm dev
 ```
 
-浏览器访问 `http://127.0.0.1:5173/orbit-demo/`。
+Then open `http://127.0.0.1:5173/orbit-demo/`.
 
-## 验证
+## Verify
 
 ```bash
 pnpm typecheck
@@ -35,12 +37,24 @@ pnpm test
 pnpm build
 ```
 
-## 部署说明
+## Deploy
 
-Vite `base` 为 `/orbit-demo/`。仓库通过 GitHub Actions 发布到 GitHub Pages；推送到 `main` 会跑测试、构建并部署 `dist`。
+Vite `base` is `/orbit-demo/`. Pushing to `main` runs tests, builds, and deploys `dist` to GitHub Pages.
 
-公开地址：https://candybox-ai.github.io/orbit-demo/
+Public URL: https://candybox-ai.github.io/orbit-demo/
 
-## 注意
+## Privacy
 
-不要提交 API Key、真实录音或个人隐私文件。演示数据可以改，但请保持可公开。
+- Do not commit API keys, real recordings, or personal private files.
+- Demo data may be edited, but keep it safe to publish.
+
+## Roadmap
+
+Planned (not in this repo):
+
+- Production Orbit app with real sign-in
+- Live user data beyond the Xu Cheng sample persona
+
+## Feedback
+
+https://github.com/candybox-ai/orbit-demo/issues
